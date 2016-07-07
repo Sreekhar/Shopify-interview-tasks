@@ -1,0 +1,38 @@
+THE IDEA
+--------
+
+I would actually build a small application, I would call it - FRIEND. (A companion who would be with you all the time when you use the portal)
+It would basically be a small animation (a super cool one), like the microsoft office assistant but very interactive like a friend (More of fun side to it). 
+If the application is made to be have some fun elements in it, users might get attracted to the website more. 
+The more the gossiping (not very private information) the application does the more the user gets interacted with it.
+It doesn't have to be necessarily always help the user technically but can also help the user non-technical stuff.
+It would be a very cool way to collect feedback from the user too.
+
+FEATURES INCLUDE
+----------------
+1. Gossiping about other users (or other user's friends, information which is not that private).
+2. Interacting with the user depending upon the age and generation.
+3. Providing general support or redirecting the user to the help, he/she needs.
+4. Saving the information when asked by the user. (Like reminding or taking a note of something important)
+5. Having cool voice to it.
+6. Send feedback/message to the support team or other users. (Task would be to decrease the usage of mail by the user)
+and many many more features can be added whenever necessary.
+
+What does the application do? When does the application start? 
+The application would get activated once the user logs into his/her Shopify portal. It would start collecting as much as information as possible. Training the application depending upon the previous data would be the main task.
+
+HOW TO BUILT IT
+---------------
+1. The most important step is to collect as much as data as possible. Would call it Global database.
+2. Use the previous available data (if given, provided) to train the application.
+3. Analyze the data as much as possible, considering the time constraint factor.
+4. As concept of learning needs to be provided to the application by training. (Many papers are available online)
+5. Depending on the global database which is updated every second, new results will be given to the user.
+6. The start of the application would be by gossiping about other users/general news/other competitors. The relevant interests of the user needs to be collected at the start. Once an application starts gossiping the user interacts with the application by giving friendly answers (Input data).
+7. This application might take time but a prototype of it can be developed by me and my colleagues if we work as a team.
+
+FUTURE SCOPE OF THE APPLICATION
+-------------------------------
+
+1. Can be made a part in the mobile application too. Always helping and talking to the user.
+2. Make a cool super intelligent application which can learn on it's own.

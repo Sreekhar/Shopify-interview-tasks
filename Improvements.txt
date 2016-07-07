@@ -1,0 +1,19 @@
+Firstly there is a small error in the script file. (Line number - 21 --> if (order.taxes_applicable == true) {  No variable or object called order)
+
+Assuming that order_object is miswritten as order on Line 21
+Used the following test object to test the code - var order_object = {product_name: "Sony", price_level:"discount", price:500, markdown:2,discount_percentage:0.2, tax:3, taxes_applicable: true};
+
+Ways to improve the code
+------------------------
+
+1. TASK - Minification of the code. (Reduce the code as much as possible which will in turn reduce the amount of data that needs to be transferred to the browser)
+2. Removing unnecessary variables, we can remove tax_str, total_str and html variables.
+3. Declare all of the variables at a time at the beginning of the code. (Helps readability too)
+4. Decreasing the if, else if statements as much as possible without changing the functionality of the code.
+5. Decrease the number of '+' operations for appending text in the code wherever necessary. (Line number 17, 30, 32 & 33)
+6. While adding two integers in a string typecasting should be taken care of. Can be done using parseInt function or using braces (x+y) (Line number - 30)
+7. Decrease the number of operations for arithmetic operations by simplyfing it. (Line number 8 & 10)
+8. Initializing the variable values, it will decrease the if, else statements drastically. (Line number 5, 11, 18 & 23)
+
+Find the optimized code below
+-----------------------------
